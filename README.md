@@ -3,12 +3,8 @@ Step into the Polygeon, an action dungeon-crawler that will have you being swarm
 Fight through hordes of enemies in typical hack and slash fashion or keep distance from enemies and shoot them down while kiting. 
 You possess the ability to swap your playstyle at your own will, but this comes with a caveat... the enemies will swap weapons too, equipping a weapon of opposite type from the player! 
 
-**by PSC - CSD1401f24 Section B**\
-    - Billy Soh                   b.soh@digipen.edu\
-    - Jovin Quah Yi Qian          j.quah@digipen.edu\
-    - Tan Jun Jie                 t.junjie@digipen.edu\
-    - Kaeden Tan Jiawei           kaedenjiawei.tan@digipen.edu\
-    - Zhou Jiahao                 jiahao.zhou@digipen.edu
+**A Team project created by SIT-Digipen Students during their first trimester**\
+    - Team PSC
 
 ## CONTROLS
 ### IN-GAME CONTROLS
